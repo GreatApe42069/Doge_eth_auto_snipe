@@ -1,0 +1,1 @@
+# -oge_eth_snipe.sol
