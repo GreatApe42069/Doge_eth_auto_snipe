@@ -1,1 +1,1 @@
-# -oge_eth_snipe.sol
+# doge_eth_snipe.sol
