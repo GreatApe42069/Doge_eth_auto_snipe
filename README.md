@@ -1,4 +1,4 @@
-# DogeSniper Smart Contract
+# Doge / ETH Auto Sniper Smart Contract
 
 ## Getting Started
 
